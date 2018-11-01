@@ -1,0 +1,1 @@
+d:\Setup.exe /ConfigurationFile=c:\temp\ConfigurationFile.ini /SQLSVCPASSWORD=changethispassword /AGTSVCPASSWORD=changethispassword /SAPWD=changethispassword /QS /IACCEPTSQLSERVERLICENSETERMS
